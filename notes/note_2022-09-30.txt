@@ -1,8 +1,0 @@
-The main motivation with this exercise is to explore interface possibilities for interacting with sample based instruments:  Values from a potentiometer are discretised with a modulus and a button for digital-in values increments a rotating counter; those two values populate variables for loading a sample file (the Pd [change] object is used to only trigger sample loading when there are integer value changes from the rapid potentiometer snapshots).
-
-A Force Sensing Resistor is used vary volume of the sample playback.  Only one-to-one mapping here so far but it will be interesting to explore the mapping options further.  I did try the [bob~] Pd object but encountered rapid buffer underruns, while the CPU load was at ~87% - maybe because I had audio-rate input to the cutoff parameter? - volume control with [*~] performs much better, though there are still some underrun messages in the log, along with 'x mode switches detected on the audio thread' - it would be good to get some insights into those issues.
-
-Further along it will be interesting to try the sliding potentiometer instead of the rotating one, for the navigation between samples, with either single sample playback or chord combinations.  One idea is to use sensors to navigate a tuning lattice (https://en.wikipedia.org/wiki/Lattice_(music)), for example with a combination of potentiometers and accelerometers / compasses.  More on that in a subsequent hand-in.
-
-September 2022
-/Björn
