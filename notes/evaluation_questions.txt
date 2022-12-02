@@ -1,0 +1,16 @@
+The IMS offers navigation of a just intonation tuning lattice by tilting it. Furthermore the navigation can be based on single note playback or chords composed of tetromino forms; different forms can be selected, to obtain different note selections for the chords, rendering different harmonies. Sounds Can be change by a "hidden" gesture / affordance.
+
+
+Learnability / explorability:
+
+Can you discover and navigate any interesting chord progressions by tilting the (fusion pose) thing?
+
+Do you find that you develop skill in navigating the chords / notes as you practise?
+- can you instantly make some music while gradually discovering / mastering some subtleties?
+
+
+Controllability:
+
+Can you observe the effect of selecting the different tetromino forms for navigating the tuning lattice? Did you land on any favorite settings?
+
+Did you discover the hidden affordance for changing sounds?
