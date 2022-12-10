@@ -1,0 +1,3 @@
+The sample based virtual instrument .wav files are not included with this repository but can either be rendered with the synth.is project or (temporarily) downloaded from Google Drive, here:
+https://TODO
+The `samplepackx` folders, where X is the number of the sample pack, are placed in the `Pd` folder.
