@@ -1,3 +1,11 @@
-The sample based virtual instrument .wav files are not included with this repository but can either be rendered with the synth.is project or (temporarily) downloaded from Google Drive, here:
-https://TODO
+The sample based virtual instrument .wav files are not included with this repository but can either be rendered with the synth.is project or (temporarily) downloaded from here:
+https://uio-my.sharepoint.com/:u:/g/personal/bthj_uio_no/Eatj-3njkwtCmArnSOZbAO8BgS3nieMdT2NydyTSM-o89Q?e=IefYdw
 The `samplepackx` folders, where X is the number of the sample pack, are placed in the `Pd` folder.
+
+Design sketches and a photo of the circuit on a perfboard can be found in the folder `sketches/final`.
+
+Blog post on the IMS:
+https://mct-master.github.io/interactive-music/2022/12/01/bthj-robiohead.html
+
+Video recording of testing the IMS can be seen here:
+https://youtu.be/A1m3Xp4wVgY
