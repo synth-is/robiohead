@@ -2,6 +2,13 @@ The sample based virtual instrument .wav files are not included with this reposi
 https://uio-my.sharepoint.com/:u:/g/personal/bthj_uio_no/Eatj-3njkwtCmArnSOZbAO8BgS3nieMdT2NydyTSM-o89Q?e=IefYdw
 The `samplepackx` folders, where X is the number of the sample pack, are placed in the `Pd` folder.
 
+The genes behind those rendered sounds can be found in the `genes` folder.
+
+External Pure data dependencies include:
+sfalib (made by Stefano Fasciani) and Maxlib:
+https://puredata.info/downloads/maxlib
+- and a few filter externals from the Bela examples.
+
 Design sketches and a photo of the circuit on a perfboard can be found in the folder `sketches/final`.
 
 Blog post on the IMS:
